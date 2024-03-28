@@ -6,5 +6,7 @@ This project analyzes the data that my employer's ticketing system has collected
 
 Clone the repository to your machine:
 
-```[python] git clone https://github.com/eortiz716/dataproject.git```
+```
+python git clone https://github.com/eortiz716/dataproject.git
+```
 
